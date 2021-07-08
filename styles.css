@@ -1,0 +1,25 @@
+body {
+	background-image: url(Meadow.jpg);
+    /*background-repeat: no-repeat; */
+  background-attachment: fixed;
+  background-size: 100%;
+  color: blue;
+  font-style: bold;
+  font-family: sans-serif;
+  margin-top: 300px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottm: 400px;
+}
+h1 {
+font-size: 40px;
+font-style: bold;
+}
+.writing {
+	font-size: 36px;
+	font-family: sans-serif;
+}
+ a {
+ 	text-align: right;
+ }
+
