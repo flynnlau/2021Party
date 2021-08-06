@@ -28,5 +28,11 @@ main {
 	padding-left: 20px;
 }
 strong {
-	color: red;
+	font-color: red;
+}
+.change {
+	background-color: red;
+	color: white;
+	font-family: helvetica;
+	
 }
